@@ -1,131 +1,166 @@
-<h1 align="center">Ali Nawaz</h1>
+<div align="center">
+  <img src="assets/banner.svg" alt="Ali Nawaz — Python Developer, Applied NLP" width="100%" />
+</div>
 
-<p align="center">
-  <strong>PYTHON DEVELOPER</strong><br />
-  Applied NLP &nbsp;·&nbsp; Web Scraping &nbsp;·&nbsp; Web Applications
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Python+Developer+%C2%B7+Applied+NLP;Building+Sindhi+Language+Technology;XLM-RoBERTa+%C2%B7+SentencePiece+%C2%B7+Semantic+Search;Compilers%2C+RAG+%26+Zero-Knowledge+Web+Apps">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Python+Developer+%C2%B7+Applied+NLP;Building+Sindhi+Language+Technology;XLM-RoBERTa+%C2%B7+SentencePiece+%C2%B7+Semantic+Search;Compilers%2C+RAG+%26+Zero-Knowledge+Web+Apps" alt="Typing animation: Python Developer, Applied NLP, Sindhi Language Technology" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ali-nawaz-786w/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/alinawazmahar"><img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a>
+  <a href="https://pypi.org/project/sindhi-nlp/"><img src="https://img.shields.io/badge/PyPI%20sindhi--nlp-0D1117?style=for-the-badge&logo=pypi&logoColor=3775A9" alt="PyPI — sindhi-nlp" /></a>
+  <a href="https://doi.org/10.5281/zenodo.23832590"><img src="https://img.shields.io/badge/Zenodo%20DOI-0D1117?style=for-the-badge&logo=zenodo&logoColor=1682D4" alt="Zenodo DOI" /></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alinawazcode&style=flat-square&color=58a6ff&label=profile+views" alt="Profile views" />
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="85%" alt="" /></div>
+
+## About Me
+
+I'm a Python developer based in Sukkur, Sindh, focused on **applied NLP and language technology for Sindhi** — a low-resource language in the Perso-Arabic script. My work spans the full pipeline: building human-labeled datasets, training tokenizers, fine-tuning transformer models, and shipping the results as SDKs, APIs, and live demos.
+
+I care about **reproducibility and honest evaluation** — my projects document their methodology, benchmark against baselines, and report negative results when the numbers demand it.
+
+- 🔬 &nbsp;Currently working on reproducible **Sindhi NLP**: sentiment analysis, tokenization, and evaluation benchmarks
+- 🤗 &nbsp;Publishing models and demos on **Hugging Face**, a package on **PyPI**, and a citable release on **Zenodo**
+- 🛠️ &nbsp;Also building security-focused web applications (zero-knowledge document sharing) and experimenting with compilers, RAG, and computer vision
+- 🎓 &nbsp;Comfortable taking projects from research notebook to production deployment
+
+<div align="center"><img src="assets/divider.svg" width="85%" alt="" /></div>
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1100&color=36BCF7&center=true&vCenter=true&width=760&lines=Python+Developer+%7C+Applied+NLP;Web+Scraping+%7C+Web+Applications;Building+Sindhi+Language+Technology" alt="Animated text: Python Developer, Applied NLP, Web Scraping, Web Applications, and Sindhi Language Technology" />
+**Machine Learning & NLP**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/SentencePiece-0D1117?style=for-the-badge&logo=token&logoColor=58A6FF" alt="SentencePiece" />
+  <img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logo=meta&logoColor=0082FB" alt="FAISS" />
+  <img src="https://img.shields.io/badge/CLIP%20(ViT--B%2F32)-0D1117?style=for-the-badge&logo=openai&logoColor=412991" alt="CLIP" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ali-nawaz-786w/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://huggingface.co/alinawazmahar">Hugging Face</a>
-  &nbsp;·&nbsp;
-  <a href="https://pypi.org/project/sindhi-nlp/">PyPI package</a>
+**Web, APIs & Apps**
+
+<p>
+  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Gradio-0D1117?style=for-the-badge&logo=gradio&logoColor=F97316" alt="Gradio" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tkinter-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Tkinter" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
-  <img src="https://img.shields.io/badge/SentencePiece-6A4C93?style=flat-square" alt="SentencePiece" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square" alt="Gradio" />
+**Tools, DevOps & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05033" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face Spaces" />
+  <img src="https://img.shields.io/badge/PyPI-0D1117?style=for-the-badge&logo=pypi&logoColor=3775A9" alt="PyPI" />
+  <img src="https://img.shields.io/badge/PythonAnywhere-0D1117?style=for-the-badge&logo=pythonanywhere&logoColor=1D9FD3" alt="PythonAnywhere" />
+  <img src="https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway" />
 </p>
 
----
+<div align="center"><img src="assets/divider.svg" width="85%" alt="" /></div>
 
-## Python developer building from data to application
+## Featured Projects
 
-I build Python software that turns data and focused experiments into tools people can use. My work spans web scraping and data preparation, NLP model development, APIs, and web applications.
+<div align="center">
+  <a href="https://github.com/alinawazcode/sindhi-nlp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=sindhi-nlp&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="sindhi-nlp" />
+  </a>
+  <a href="https://github.com/alinawazcode/sindhi-tokenizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=sindhi-tokenizer&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="sindhi-tokenizer" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/alinawazcode/passli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=passli&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="passli" />
+  </a>
+  <a href="https://github.com/alinawazcode/CCTV-Visual-RAG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=CCTV-Visual-RAG&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="CCTV-Visual-RAG" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/alinawazcode/Anex-Programming-Language">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=Anex-Programming-Language&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="Anex-Programming-Language" />
+  </a>
+  <a href="https://github.com/alinawazcode/Sindhi_Sentiment_dataset">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=Sindhi_Sentiment_dataset&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="Sindhi_Sentiment_dataset" />
+  </a>
+</div>
 
-My deepest project area is **Sindhi language technology**. I work across the pipeline: preparing language data, training and comparing tokenizers and classifiers, documenting what the evaluations do and do not show, and packaging models behind reusable Python interfaces.
+<div align="center"><img src="assets/divider.svg" width="85%" alt="" /></div>
 
-## Sindhi language engineering
+## GitHub Statistics
 
-### [Sindhi Tokenizer](https://github.com/alinawazcode/sindhi-tokenizer)
+<div align="center">
+  <a href="https://github.com/alinawazcode">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=alinawazcode&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&ring_color=58A6FF&hide_border=true" alt="Ali Nawaz's GitHub stats" />
+  </a>
+  <a href="https://github.com/alinawazcode">
+    <img height="180" src="https://streak-stats.demolab.com?user=alinawazcode&background=0D1117&ring=58A6FF&fire=7EE787&currStreakLabel=58A6FF&sideLabels=9DA7B3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=9DA7B3&hide_border=true" alt="GitHub contribution streak" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/alinawazcode">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinawazcode&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&hide_border=true" alt="Most used languages" />
+  </a>
+</div>
 
-**A corpus-driven SentencePiece Unigram tokenizer for Sindhi in Perso-Arabic script.**
+<div align="center"><img src="assets/divider.svg" width="85%" alt="" /></div>
 
-- Trained on a corpus of **1.46M+ sentences**, including Sindhi and regional text sources.
-- Publishes four vocabulary sizes: **32k, 64k, 100k, and 150k**; 64k is the recommended balance in the project documentation.
-- Compares **14 baseline tokenizers** with four custom vocabulary sizes across four registers: FLORES+, Wikipedia, sentiment text, and regional news. The 18 benchmark entries represent 17 distinct behaviors because two listed baselines are equivalent in this evaluation.
-- Uses full observed-character coverage and byte fallback; includes training scripts, corpus provenance, benchmark results, and documented experiments that did not help.
-- The reported **0.0000% normalized-length loss** is a length-based round-trip check. The repository explicitly notes that it cannot prove exact character identity for arbitrary text. Downstream task gains have not yet been established.
+## Contribution Snake
 
-**Explore:** [Repository](https://github.com/alinawazcode/sindhi-tokenizer) · [Documentation](https://alinawazcode.github.io/sindhi-tokenizer/) · [Models](https://huggingface.co/alinawazmahar/sindhi-tokenizer) · [Demo code](https://github.com/alinawazcode/sindhi-tokenizer/tree/main/demo)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alinawazcode/alinawazcode/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alinawazcode/alinawazcode/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/alinawazcode/alinawazcode/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+  <sub>Generated automatically every 12 hours by GitHub Actions.</sub>
+</div>
 
-### [sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
+<div align="center"><img src="assets/divider.svg" width="85%" alt="" /></div>
 
-**A reproducible Sindhi sentiment-classification package—not just a notebook.**
+## Recent Activity
 
-- Predicts **negative, neutral, or positive** sentiment for short Sindhi text.
-- Includes a fast TF-IDF + LinearSVC baseline and a fine-tuned XLM-RoBERTa model, plus Python SDK, CLI, batch inference, and FastAPI service.
-- On the 884-sentence held-out test set, the TF-IDF baseline reports **0.8695 macro-F1 / 0.8688 accuracy**; the mixed XLM-R model reports **0.8906 macro-F1 / 0.8903 accuracy**.
-- The measured difference was **not statistically significant** in the reported paired test (McNemar p = 0.116). The baseline is a meaningful option when CPU speed and simplicity matter.
-- The package includes tests, CI, typed interfaces, API documentation, and a model card. The natural-language labels were assigned by one annotator, and the project documents limits on dialect, social text, sarcasm, and other domains.
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-**Explore:** [Repository](https://github.com/alinawazcode/sindhi-nlp) · [PyPI](https://pypi.org/project/sindhi-nlp/) · [Documentation](https://alinawazcode.github.io/sindhi-nlp/) · [Hugging Face model](https://huggingface.co/alinawazmahar/sindhi-sentiment-xlmr)
+<sub>Updated automatically every 6 hours by GitHub Actions.</sub>
 
-### [Sindhi Sentiment Dataset](https://github.com/alinawazcode/Sindhi_Sentiment_dataset)
+<div align="center"><img src="assets/divider.svg" width="85%" alt="" /></div>
 
-**A public dataset and classical machine-learning baseline for Sindhi sentiment.**
+## Connect With Me
 
-- Contains **4,420 human-labeled sentences** balanced across positive, negative, and neutral labels.
-- The training script compares Logistic Regression, LinearSVC, and Complement Naive Bayes with a dual TF-IDF representation: character n-grams (2–6) and word n-grams (1–2).
-- Uses stratified train/validation/test splits and five-fold tuning on training data; saves model bundles and a metrics report.
-- The README explains why an earlier pseudo-labeled evaluation produced a higher score and why the expanded human-labeled evaluation is a more cautious measure.
-- **Data caveat:** one person labeled the sentences; agreement between annotators was not measured. News-style text is not a substitute for evaluation on social media or conversational Sindhi.
+<div align="center">
+  <a href="https://github.com/alinawazcode"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ali-nawaz-786w/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/alinawazmahar"><img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a>
+  <a href="https://pypi.org/project/sindhi-nlp/"><img src="https://img.shields.io/badge/PyPI-0D1117?style=for-the-badge&logo=pypi&logoColor=3775A9" alt="PyPI" /></a>
+</div>
 
-**Explore:** [Repository](https://github.com/alinawazcode/Sindhi_Sentiment_dataset) · [Live demo](https://huggingface.co/spaces/alinawazmahar/sindhi-sentiment)
+<br />
 
-## Python, search, and web applications
-
-### [DataScout](https://github.com/alinawazcode/datascout)
-
-**A Gradio web app for finding datasets by meaning.** It retrieves a keyword-filtered candidate set from the Hugging Face Hub, embeds descriptions with `all-MiniLM-L6-v2`, then ranks candidates using **75% semantic similarity and 25% metadata/popularity signals**. Kaggle search is optional. The quality component is a documentation/popularity proxy, not an audit of dataset quality; live search also means candidates are fetched again for each query.
-
-[Repository](https://github.com/alinawazcode/datascout) · [Live demo](https://huggingface.co/spaces/alinawazmahar/DataScout)
-
-### [Passli](https://github.com/alinawazcode/passli)
-
-**A Django document vault with encrypted storage and time-limited sharing.** It implements AES-256-GCM encryption at rest, hashed share keys, QR-based access, view/download restrictions, expiry, revocation, and security logging. Its security policy is clear that the server holds the master key and can read documents: **Passli is not zero-knowledge and has not had an independent security audit.**
-
-[Repository](https://github.com/alinawazcode/passli) · [Security policy](https://github.com/alinawazcode/passli/blob/main/SECURITY.md)
-
-### [CCTV Visual RAG](https://github.com/alinawazcode/CCTV-Visual-RAG)
-
-**Natural-language search over sampled video frames.** OpenCV samples frames, CLIP creates image/text embeddings, and FAISS ranks matching frames with timestamps. The demo uses 1 FPS sampling and a 500-frame cap. It retrieves relevant frames; temporal clip understanding is listed as future work.
-
-[Repository](https://github.com/alinawazcode/CCTV-Visual-RAG) · [Live demo](https://huggingface.co/spaces/alinawazmahar/cctv-visual-rag)
-
-### [ANEX Programming Language](https://github.com/alinawazcode/Anex-Programming-Language)
-
-**An educational programming-language and visual-debugger project built in Python.** It demonstrates a lexer, parser/AST, interpreter, variables, control flow, functions, and a customtkinter interface that visualizes the execution pipeline. The README also describes optimization and pseudo-code generation stages; see the repository for the current implementation and examples.
-
-[Repository](https://github.com/alinawazcode/Anex-Programming-Language)
-
-### [React + Vite Site](https://github.com/alinawazcode/The-Shaikh-Ayaz-University-Website)
-
-A React + Vite web project. Its public README is still the Vite starter template, so project-specific screenshots, setup, and my contribution are not documented there yet.
-
-[Repository](https://github.com/alinawazcode/The-Shaikh-Ayaz-University-Website)
-
-## Skills and tools
-
-| Area | Tools and work |
-| --- | --- |
-| **Python development** | Python packages, command-line tools, APIs, data processing |
-| **Applied NLP / ML** | scikit-learn, PyTorch, Transformers, SentencePiece, text evaluation |
-| **Web and data** | Web scraping, Django, FastAPI, Gradio, React + Vite |
-| **Search and vision** | Sentence Transformers, FAISS, CLIP, OpenCV |
-| **Engineering practices** | Tests, CI, reproducible runs, model cards, documented limitations |
-
-## How I work
-
-**Understand the data → build a baseline → measure carefully → package the useful result → document the limits.**
-
-I value readable code and claims that can be checked against source, metrics, and a reproducible run.
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ali-nawaz-786w/">Connect on LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://huggingface.co/alinawazmahar">Explore my Hugging Face work</a>
-</p>
+<div align="center">
+  <sub>Built with Markdown, Shields.io, and GitHub Actions — everything on this page is generated from real data.</sub>
+</div>
