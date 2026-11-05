@@ -144,16 +144,16 @@ I care about **reproducibility and honest evaluation** — my projects document 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/alinawazcode/sindhi-nlp/pull/15) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
-2. 💪 Opened PR [#15](https://github.com/alinawazcode/sindhi-nlp/pull/15) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
-3. 🎉 Merged PR [#14](https://github.com/alinawazcode/sindhi-nlp/pull/14) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
-4. 💪 Opened PR [#14](https://github.com/alinawazcode/sindhi-nlp/pull/14) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
-5. ❌ Closed PR [#153](https://github.com/abhiksark/pythonlings/pull/153) in [abhiksark/pythonlings](https://github.com/abhiksark/pythonlings)
-6. 🎉 Merged PR [#24](https://github.com/alinawazcode/passli/pull/24) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
-7. 💪 Opened PR [#24](https://github.com/alinawazcode/passli/pull/24) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
-8. 🎉 Merged PR [#23](https://github.com/alinawazcode/passli/pull/23) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
-9. 💪 Opened PR [#23](https://github.com/alinawazcode/passli/pull/23) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
-10. 🎉 Merged PR [#13](https://github.com/alinawazcode/sindhi-nlp/pull/13) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
+1. 🚀 Published release [Sindhi Tokenizer v1.0.0 — First Stable Release](https://github.com/alinawazcode/sindhi-tokenizer/releases/tag/v1.0.0) in [alinawazcode/sindhi-tokenizer](https://github.com/alinawazcode/sindhi-tokenizer)
+2. 🎉 Merged PR [#15](https://github.com/alinawazcode/sindhi-nlp/pull/15) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
+3. 💪 Opened PR [#15](https://github.com/alinawazcode/sindhi-nlp/pull/15) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
+4. 🎉 Merged PR [#14](https://github.com/alinawazcode/sindhi-nlp/pull/14) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
+5. 💪 Opened PR [#14](https://github.com/alinawazcode/sindhi-nlp/pull/14) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
+6. ❌ Closed PR [#153](https://github.com/abhiksark/pythonlings/pull/153) in [abhiksark/pythonlings](https://github.com/abhiksark/pythonlings)
+7. 🎉 Merged PR [#24](https://github.com/alinawazcode/passli/pull/24) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
+8. 💪 Opened PR [#24](https://github.com/alinawazcode/passli/pull/24) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
+9. 🎉 Merged PR [#23](https://github.com/alinawazcode/passli/pull/23) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
+10. 💪 Opened PR [#23](https://github.com/alinawazcode/passli/pull/23) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
 <!--END_SECTION:activity-->
 
 <sub>Updated automatically every 6 hours by GitHub Actions.</sub>
