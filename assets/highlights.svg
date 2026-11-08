@@ -1,36 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Highlights: 91.7% sentiment accuracy, 4,420 human-labeled sentences, 1.46M+ tokenizer training sentences, 14 baseline tokenizers benchmarked">
-  <defs>
-    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#161b22"/>
-      <stop offset="1" stop-color="#0d1117"/>
-    </linearGradient>
-    <linearGradient id="num" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#58a6ff"/>
-      <stop offset="1" stop-color="#7ee787"/>
-    </linearGradient>
-  </defs>
-  <style>
-    .n{font:700 40px 'Segoe UI',-apple-system,Helvetica,Arial,sans-serif;fill:url(#num)}
-    .l{font:500 14px 'Segoe UI',-apple-system,Helvetica,Arial,sans-serif;fill:#8b949e}
-  </style>
-  <g>
-    <rect x="1" y="1" width="283" height="128" rx="12" fill="url(#card)" stroke="#30363d"/>
-    <text class="n" x="142" y="62" text-anchor="middle">91.7%</text>
-    <text class="l" x="142" y="94" text-anchor="middle">Sindhi sentiment accuracy</text>
-  </g>
-  <g>
-    <rect x="305" y="1" width="283" height="128" rx="12" fill="url(#card)" stroke="#30363d"/>
-    <text class="n" x="446" y="62" text-anchor="middle">4,420</text>
-    <text class="l" x="446" y="94" text-anchor="middle">human-labeled sentences</text>
-  </g>
-  <g>
-    <rect x="609" y="1" width="283" height="128" rx="12" fill="url(#card)" stroke="#30363d"/>
-    <text class="n" x="750" y="62" text-anchor="middle">1.46M+</text>
-    <text class="l" x="750" y="94" text-anchor="middle">tokenizer training sentences</text>
-  </g>
-  <g>
-    <rect x="913" y="1" width="286" height="128" rx="12" fill="url(#card)" stroke="#30363d"/>
-    <text class="n" x="1056" y="62" text-anchor="middle">14</text>
-    <text class="l" x="1056" y="94" text-anchor="middle">baseline tokenizers benchmarked</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Highlights: 91.7% sentiment accuracy, 4,420 human-labeled sentences, 1.46M+ tokenizer training sentences, 14 baseline tokenizers benchmarked"><g>
+    <rect x="2" y="2" width="292" height="126" rx="14" fill="#0f1527" stroke="#26304f"/>
+    <path d="M16 2 H280" stroke="#e03e52" stroke-width="3" stroke-linecap="round"/>
+    <text x="148" y="70" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="42" font-weight="800" fill="#e03e52">91.7%</text>
+    <text x="148" y="102" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b95b3">sentiment accuracy</text></g><g>
+    <rect x="304" y="2" width="292" height="126" rx="14" fill="#0f1527" stroke="#26304f"/>
+    <path d="M318 2 H582" stroke="#5c7cfa" stroke-width="3" stroke-linecap="round"/>
+    <text x="450" y="70" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="42" font-weight="800" fill="#5c7cfa">4,420</text>
+    <text x="450" y="102" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b95b3">human-labeled sentences</text></g><g>
+    <rect x="606" y="2" width="292" height="126" rx="14" fill="#0f1527" stroke="#26304f"/>
+    <path d="M620 2 H884" stroke="#38d9a9" stroke-width="3" stroke-linecap="round"/>
+    <text x="752" y="70" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="42" font-weight="800" fill="#38d9a9">1.46M+</text>
+    <text x="752" y="102" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b95b3">tokenizer training sentences</text></g><g>
+    <rect x="908" y="2" width="292" height="126" rx="14" fill="#0f1527" stroke="#26304f"/>
+    <path d="M922 2 H1186" stroke="#f2d7a3" stroke-width="3" stroke-linecap="round"/>
+    <text x="1054" y="70" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="42" font-weight="800" fill="#f2d7a3">14</text>
+    <text x="1054" y="102" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b95b3">baseline tokenizers benchmarked</text></g></svg>
