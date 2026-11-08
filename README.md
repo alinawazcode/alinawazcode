@@ -83,29 +83,79 @@ I care about **reproducibility and honest evaluation** — my projects document 
 
 ## Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alinawazcode/sindhi-nlp">Sindhi NLP</a></h3>
+      <b>Reproducible Sindhi sentiment analysis</b>
+      <p>Sentiment analysis for Sindhi with a fine-tuned XLM-RoBERTa model, a Python SDK, and a FastAPI service. Every run is seeded and logs its config, metrics, and data hashes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/XLM--RoBERTa-FFB000?style=flat-square&logo=huggingface&logoColor=black" alt="XLM--RoBERTa" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p>
+        <a href="https://github.com/alinawazcode/sindhi-nlp"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
+        <a href="https://huggingface.co/alinawazmahar/sindhi-sentiment-xlmr"><img src="https://img.shields.io/badge/Model-FFB000?style=flat-square&logo=huggingface&logoColor=black" alt="Model" /></a>
+        <a href="https://pypi.org/project/sindhi-nlp/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alinawazcode/Sindhi_Sentiment_dataset">Sindhi Sentiment Dataset</a></h3>
+      <b>Sindhi sentiment classifier and dataset</b>
+      <p>Dual TF-IDF + LinearSVC classifier trained on a fully human-labeled 4,420-sentence dataset: 91.7% accuracy and 0.918 macro F1, with a transparent writeup of why accuracy dropped from v1.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit--learn" />
+        <img src="https://img.shields.io/badge/TF--IDF-6E40C9?style=flat-square" alt="TF--IDF" />
+        <img src="https://img.shields.io/badge/LinearSVC-0E8A7D?style=flat-square" alt="LinearSVC" />
+      </p>
+      <p>
+        <a href="https://github.com/alinawazcode/Sindhi_Sentiment_dataset"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
+        <a href="https://huggingface.co/spaces/alinawazmahar/sindhi-sentiment"><img src="https://img.shields.io/badge/Live%20Demo-FFB000?style=flat-square&logo=huggingface&logoColor=black" alt="Live Demo" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alinawazcode/passli">Passli</a></h3>
+      <b>Zero-knowledge document sharing</b>
+      <p>High-security document sharing with AES-256-GCM encryption, single-use QR passes, rate-limiting defense, granular expiration controls, and zero server-side plaintext exposure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/AES--256--GCM-C0392B?style=flat-square" alt="AES--256--GCM" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      </p>
+      <p>
+        <a href="https://github.com/alinawazcode/passli"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
+        <a href="https://github.com/alinawazcode/passli/tree/main/docs"><img src="https://img.shields.io/badge/Docs-4F46E5?style=flat-square&logo=readthedocs&logoColor=white" alt="Docs" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alinawazcode/sindhi-tokenizer">Sindhi Tokenizer</a></h3>
+      <b>Corpus-driven subword tokenizer for Sindhi</b>
+      <p>SentencePiece Unigram tokenizer trained on 1.46M+ Sindhi sentences and benchmarked against 14 baseline tokenizers, with a 0.000% normalized-length loss round-trip check.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SentencePiece-58A6FF?style=flat-square" alt="SentencePiece" />
+        <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      </p>
+      <p>
+        <a href="https://github.com/alinawazcode/sindhi-tokenizer"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
+        <a href="https://huggingface.co/alinawazmahar/sindhi-tokenizer"><img src="https://img.shields.io/badge/Model-FFB000?style=flat-square&logo=huggingface&logoColor=black" alt="Model" /></a>
+        <a href="https://alinawazcode.github.io/sindhi-tokenizer/"><img src="https://img.shields.io/badge/Docs-4F46E5?style=flat-square&logo=readthedocs&logoColor=white" alt="Docs" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <a href="https://github.com/alinawazcode/sindhi-nlp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=sindhi-nlp&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="sindhi-nlp" />
-  </a>
-  <a href="https://github.com/alinawazcode/sindhi-tokenizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=sindhi-tokenizer&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="sindhi-tokenizer" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/alinawazcode/passli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=passli&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="passli" />
-  </a>
-  <a href="https://github.com/alinawazcode/CCTV-Visual-RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=CCTV-Visual-RAG&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="CCTV-Visual-RAG" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/alinawazcode/Anex-Programming-Language">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=Anex-Programming-Language&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="Anex-Programming-Language" />
-  </a>
-  <a href="https://github.com/alinawazcode/Sindhi_Sentiment_dataset">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alinawazcode&repo=Sindhi_Sentiment_dataset&bg_color=0D1117&title_color=58A6FF&text_color=9DA7B3&icon_color=7EE787&hide_border=true&description_lines_count=2" alt="Sindhi_Sentiment_dataset" />
-  </a>
+  <a href="https://github.com/alinawazcode?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-24292F?style=flat-square&logo=github&logoColor=white" alt="Explore all repositories" /></a><a href="https://github.com/alinawazcode"><img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-7C3AED?style=flat-square" alt="View on GitHub" /></a>
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="85%" alt="" /></div>
