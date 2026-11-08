@@ -10,8 +10,8 @@ Use `--demo` to render with sample data (no network) for design checks.
 import json, os, sys, urllib.request
 from html import escape
 
-BG, CARD, LINE = "#0b0f1a", "#0f1527", "#26304f"
-RED, IND, SAND, TEAL = "#e03e52", "#5c7cfa", "#f2d7a3", "#38d9a9"
+BG, CARD, LINE = "#0b1020", "#0f1730", "#243049"
+RED, IND, SAND, TEAL = "#60a5fa", "#a78bfa", "#fbbf24", "#34d399"
 TXT, MUT = "#e8ecf7", "#8b95b3"
 MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace"
 SANS = "'Segoe UI',-apple-system,Helvetica,Arial,'DejaVu Sans',sans-serif"

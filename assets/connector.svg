@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40" role="img" aria-label="">
-  <line x1="600" y1="0" x2="600" y2="26" stroke="#5c7cfa" stroke-width="2" stroke-dasharray="4 4"/>
-  <path d="M594 24 L600 34 L606 24 Z" fill="#e03e52"/>
+  <line x1="600" y1="0" x2="600" y2="26" stroke="#a78bfa" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M594 24 L600 34 L606 24 Z" fill="#60a5fa"/>
 </svg>
