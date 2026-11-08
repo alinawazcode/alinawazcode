@@ -131,16 +131,12 @@ I work on the full pipeline for **Sindhi NLP**: building human-labeled datasets,
 <img src="assets/h-stats.svg" width="100%" alt="04 Telemetry" />
 
 <div align="center">
-  <a href="https://github.com/alinawazcode">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=alinawazcode&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B0F1A&title_color=F2D7A3&text_color=B8C0D9&icon_color=E03E52&ring_color=5C7CFA&border_color=26304F&border_radius=14" alt="Ali Nawaz's GitHub stats" />
-  </a>
-  <a href="https://github.com/alinawazcode">
-    <img height="180" src="https://streak-stats.demolab.com?user=alinawazcode&background=0B0F1A&ring=5C7CFA&fire=E03E52&currStreakLabel=F2D7A3&sideLabels=B8C0D9&currStreakNum=E8ECF7&sideNums=E8ECF7&dates=8B95B3&border=26304F&stroke=26304F&hide_border=false&border_radius=14" alt="GitHub contribution streak" />
-  </a>
+  <img src="assets/stats.svg" width="49%" alt="GitHub stats: stars, commits, pull requests, issues, public repositories and followers" />
+  <img src="assets/langs.svg" width="49%" alt="Most used languages across public repositories" />
 </div>
 <div align="center">
   <a href="https://github.com/alinawazcode">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinawazcode&layout=compact&langs_count=8&bg_color=0B0F1A&title_color=F2D7A3&text_color=B8C0D9&border_color=26304F&border_radius=14" alt="Most used languages" />
+    <img height="180" src="https://streak-stats.demolab.com?user=alinawazcode&background=0B0F1A&ring=5C7CFA&fire=E03E52&currStreakLabel=F2D7A3&sideLabels=B8C0D9&currStreakNum=E8ECF7&sideNums=E8ECF7&dates=8B95B3&border=26304F&stroke=26304F&hide_border=false&border_radius=14" alt="GitHub contribution streak" />
   </a>
 </div>
 
