@@ -17,10 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=alinawazcode&style=flat-square&color=60a5fa&label=profile+views" alt="Profile views" />
 </p>
 
-<div align="center">
-  <img src="assets/highlights.svg" width="100%" alt="Highlights: 91.7% sentiment accuracy, 4,420 human-labeled sentences, 1.46M+ tokenizer training sentences, 14 baseline tokenizers benchmarked" />
-</div>
-
 <div align="center"><img src="assets/connector.svg" width="100%" alt="" /></div>
 
 <img src="assets/h-about.svg" width="100%" alt="01 About" />
