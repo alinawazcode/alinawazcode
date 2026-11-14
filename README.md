@@ -178,16 +178,16 @@ I'm a Python developer who takes machine learning work from a research notebook 
 <br />
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Sindhi Tokenizer v1.0.0 — First Stable Release](https://github.com/alinawazcode/sindhi-tokenizer/releases/tag/v1.0.0) in [alinawazcode/sindhi-tokenizer](https://github.com/alinawazcode/sindhi-tokenizer)
-2. 🎉 Merged PR [#15](https://github.com/alinawazcode/sindhi-nlp/pull/15) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
-3. 💪 Opened PR [#15](https://github.com/alinawazcode/sindhi-nlp/pull/15) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
-4. 🎉 Merged PR [#14](https://github.com/alinawazcode/sindhi-nlp/pull/14) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
-5. 💪 Opened PR [#14](https://github.com/alinawazcode/sindhi-nlp/pull/14) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
-6. ❌ Closed PR [#153](https://github.com/abhiksark/pythonlings/pull/153) in [abhiksark/pythonlings](https://github.com/abhiksark/pythonlings)
-7. 🎉 Merged PR [#24](https://github.com/alinawazcode/passli/pull/24) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
-8. 💪 Opened PR [#24](https://github.com/alinawazcode/passli/pull/24) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
-9. 🎉 Merged PR [#23](https://github.com/alinawazcode/passli/pull/23) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
-10. 💪 Opened PR [#23](https://github.com/alinawazcode/passli/pull/23) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
+1. 🚀 Published release [Sindhi Tokenizer Python SDK v1.1.0](https://github.com/alinawazcode/sindhi-tokenizer/releases/tag/v1.1.0) in [alinawazcode/sindhi-tokenizer](https://github.com/alinawazcode/sindhi-tokenizer)
+2. 🎉 Merged PR [#1](https://github.com/alinawazcode/sindhi-tokenizer/pull/1) in [alinawazcode/sindhi-tokenizer](https://github.com/alinawazcode/sindhi-tokenizer)
+3. 💪 Opened PR [#1](https://github.com/alinawazcode/sindhi-tokenizer/pull/1) in [alinawazcode/sindhi-tokenizer](https://github.com/alinawazcode/sindhi-tokenizer)
+4. 🚀 Published release [Sindhi Tokenizer v1.0.0 — First Stable Release](https://github.com/alinawazcode/sindhi-tokenizer/releases/tag/v1.0.0) in [alinawazcode/sindhi-tokenizer](https://github.com/alinawazcode/sindhi-tokenizer)
+5. 🎉 Merged PR [#15](https://github.com/alinawazcode/sindhi-nlp/pull/15) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
+6. 💪 Opened PR [#15](https://github.com/alinawazcode/sindhi-nlp/pull/15) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
+7. 🎉 Merged PR [#14](https://github.com/alinawazcode/sindhi-nlp/pull/14) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
+8. 💪 Opened PR [#14](https://github.com/alinawazcode/sindhi-nlp/pull/14) in [alinawazcode/sindhi-nlp](https://github.com/alinawazcode/sindhi-nlp)
+9. ❌ Closed PR [#153](https://github.com/abhiksark/pythonlings/pull/153) in [abhiksark/pythonlings](https://github.com/abhiksark/pythonlings)
+10. 🎉 Merged PR [#24](https://github.com/alinawazcode/passli/pull/24) in [alinawazcode/passli](https://github.com/alinawazcode/passli)
 <!--END_SECTION:activity-->
 
 </details>
