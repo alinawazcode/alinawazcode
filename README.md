@@ -136,6 +136,7 @@ I'm a Python developer who takes machine learning work from a research notebook 
         <a href="https://huggingface.co/alinawazmahar/sindhi-tokenizer"><img src="https://img.shields.io/badge/Model-FFB000?style=flat-square&logo=huggingface&logoColor=black" alt="Model" /></a>
         <a href="https://alinawazcode.github.io/sindhi-tokenizer/"><img src="https://img.shields.io/badge/Docs-4F46E5?style=flat-square&logo=readthedocs&logoColor=white" alt="Docs" /></a>
         <a href="https://doi.org/10.5281/zenodo.23962474"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23962474-1682D4?style=flat-square&logo=zenodo&logoColor=white" alt="Zenodo DOI" /></a>
+        <a href="https://www.preprints.org/manuscript/202611.1598"><img src="https://img.shields.io/badge/Preprint-Preprints.org-2F6FB0?style=flat-square&logo=readthedocs&logoColor=white" alt="Preprint on Preprints.org" /></a>
       </p>
     </td>
   </tr>
