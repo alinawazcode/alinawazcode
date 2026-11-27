@@ -26,12 +26,15 @@
 name: Ali Nawaz
 role: Python Developer · ML & NLP Engineer
 status: open to opportunities
+looking_for: [Python Developer, ML Engineer, NLP Engineer]
+education: Computer Science, Shaikh Ayaz University
 strengths:
   - fine-tuning and evaluating transformer models
   - shipping models as SDKs, REST APIs and demos
   - secure, tested backends (Django, FastAPI)
 how_i_work: [reproducible runs, baselines first, honest reporting]
 shipped: [PyPI package, Hugging Face models and Spaces, Dockerized apps, CI pipelines]
+publications: [preprint on Preprints.org, software archive on Zenodo]
 ```
 
 I'm a Python developer who takes machine learning work from a research notebook to something other people can install, call and trust. I build the whole chain: labeled datasets, training and evaluation, then packaging, APIs and deployment. My NLP projects focus on low-resource languages, which taught me to benchmark carefully and report negative results when the numbers demand it.
@@ -145,6 +148,23 @@ I'm a Python developer who takes machine learning work from a research notebook 
 <div align="center">
   <a href="https://github.com/alinawazcode?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-24292F?style=flat-square&logo=github&logoColor=white" alt="Explore all repositories" /></a><a href="https://github.com/alinawazcode"><img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-7C3AED?style=flat-square" alt="View on GitHub" /></a>
 </div>
+
+### 📚 Research &amp; Publications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📄 Preprint</b><br />
+      <a href="https://doi.org/10.20944/preprints202611.1598.v1">A Corpus-Driven SentencePiece Unigram Tokenizer for Sindhi: Design and Benchmark Against Fourteen Existing Tokenizers</a><br />
+      <sub>Preprints.org · version 1 · not peer-reviewed</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>📦 Software archive</b><br />
+      <a href="https://doi.org/10.5281/zenodo.23962474">Sindhi Tokenizer v1.0.0</a><br />
+      <sub>Zenodo · DOI 10.5281/zenodo.23962474 · MIT license</sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center"><img src="assets/connector.svg" width="100%" alt="" /></div>
 
